@@ -1,6 +1,6 @@
 # SmartFarmProject - 데이터 분석 및 시각화
 ### 개요: 제주도에서 판매되는 작물들의 소매 가격의 특징을 파악하여 SmartFarm 사업의 타당성을 증명한다.
-## 개발 Tool 및 Framework
+## 개발 Tool 및 Library
 * Jupyter
 * Python
 * Pandas
