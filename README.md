@@ -14,7 +14,7 @@
 3. 2019년 11월 4주차부터 2020년 3월 1주차까지 매주 농작물 가격의 평균을 계산한다.
 4. 위의 절차를 바탕으로 Dataframe을 생성한다.
 ## 데이터 분석
-### kaggle 주소: https://www.kaggle.com/sjongyoo/smartfarmproject-dataanalysis-sesame-price
+#### kaggle 주소: https://www.kaggle.com/sjongyoo/smartfarmproject-dataanalysis-sesame-price
 <img src="Data-PriceChanges/maingraph.PNG" width="800">
 
 * 우리나라는 겨울철 농작물의 가격 변동이 크다는 점을 바탕으로 기간을 위와 같이 선정하였다.
