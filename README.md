@@ -15,7 +15,7 @@
 4. 위의 절차를 바탕으로 Dataframe을 생성한다.
 ## 데이터 분석
 #### kaggle 주소: https://www.kaggle.com/sjongyoo/smartfarmproject-dataanalysis-sesame-price
-<img src="Data-PriceChanges/maingraph.PNG" width="800">
+<img src="code/maingraph.PNG" width="800">
 
 * 우리나라는 겨울철 농작물의 가격 변동이 크다는 점을 바탕으로 기간을 위와 같이 선정하였다.
 * 분홍색 영역이 본 그래프에서 가장 중요한 특징을 나타낸다.
